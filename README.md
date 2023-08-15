@@ -5,7 +5,8 @@
         "sass": "node-sass -w scss/ -o dist/css/ --recursive"
 ### 4. create two folders "scss" and "dist" inside main project folder.
 ### 5. create "main.scss" file in "scss" folder and write SASS code in that.
-### 6. run following command to convert scss file to css file -> npm run sass
+### 6. run following command to convert scss file to css file -> 
+                        npm run sass
 
 # NOTE :-
 ### 1. all the development work is done in scss folder.
